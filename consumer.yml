@@ -3,7 +3,7 @@ resources:
   - repository: templates
     type: github
     name: 'JeremyTCD/IssueReproduction.RepositoryResource.Template'
-    endpoint: 'https://github.com/JeremyTCD/IssueReproduction.RepositoryResource.Template.git'
+    endpoint: JeremyTCD
 
 jobs:
 - template: template.yml@templates
